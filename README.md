@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi guys! 👋
+
+I`m a motivated Frontend developer, with an extensive UI & UX background and Web Accessibility commitment.
+
+Combining these worlds inspires me to develop new projects focused on the user experience.
+
+I am here to use my skills, give my knowledge and share my passions in order to participate in challenges that lead all of us to a better way.
+
+
 
 <!--
 **yuricooke/yuricooke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
