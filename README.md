@@ -1,12 +1,8 @@
 # Hi guys! 👋
 
-I`m a motivated Frontend developer, with an extensive UI & UX background and Web Accessibility commitment.
+"I'm an inspired Frontend developer, deeply immersed in the arts of UI & UX, with a strong commitment to #a11y (web accessibility).
 
-Combining these worlds inspires me to develop new projects focused on the user experience.
-
-I am here to use my skills, give my knowledge and share my passions in order to participate in challenges that lead all of us to a better way.
-
-
+This fusion of creative and practical worlds fuels my passion to create fresh projects where I focus on using my skills, offer my knowledge, and share my passions on challenges that center around programming and design, with the aim of making a positive contribution to the world."
 
 <!--
 **yuricooke/yuricooke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
